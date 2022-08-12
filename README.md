@@ -26,4 +26,4 @@ ESC: Go back to the start screen
 
 RIGHT/LEFT MOUSE & SCROLL WHEEL: Increase and decrease canvas size
 
-R: Reset the number counter for exporting"
+R: Reset the number counter for exporting
