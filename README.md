@@ -3,6 +3,8 @@
  tool that lets you use comadore64 fonts to make little things that i think thats cool
  This is a tool developed mainly for Windows machienes though a follower on twitter got it working on linux with wine or whatever.
 
+non source code version: https://cabl.itch.io/silly-text-tool
+
 # Tutorial 
 [EDITOR]
 
